@@ -1,0 +1,23 @@
+#gameContainer{
+    text-align: center;
+    font-family: "Ink free", "consolas";
+}
+#stadium{
+    border-left: solid 10px red;
+    border-right: solid 10px blue;
+}
+#scoreText{
+    font-size: 100px;
+    color: #000;
+}
+#resetBtn{
+    font-family: "Ink free", "consolas";
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #000;
+}
